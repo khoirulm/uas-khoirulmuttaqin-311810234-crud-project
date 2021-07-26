@@ -1,7 +1,7 @@
-# UAS Arkyana Usman
-Nama : Arkyana Usman Dwi B\
-NIM : 311810105\
-Kelas : TI.18.C.1
+# UJIAN AKHIR SEMESTER
+Nama : Khoirul Muttaqin\
+NIM : 311810234\
+Kelas : TI.18.D1
 
 # Login page
 ![login page](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Flogin.png?alt=media&token=be26b0cd-cadd-4351-b084-9d32bf226a74) \
