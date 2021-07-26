@@ -7,7 +7,7 @@ Kelas : TI.18.D1
 ![Login](https://user-images.githubusercontent.com/60081182/126924734-ff9e1538-3827-47ab-b151-44d608ca89b8.JPG) \
 Halama login untuk user yang sudah memiliki akun, jika user belum memiliki akun klik Creat New Account di bawa button 
 
-# Create account
+# Daftar Akun
 ![RegisterJPG](https://user-images.githubusercontent.com/60081182/126924769-e2b38b37-0e39-43d4-9c44-5e939fa9b776.JPG) \
 HAlaman Daftafr Akun untuk user yang belum memiliki akses masuk
 
@@ -20,10 +20,10 @@ Dashboard adalah halaman utama pada aplikasi ini, berisi sedikit informasi pada 
 Halaman material dapat melakukan CRUD yaitu  menambah, menghapus, dan mengubah data material.
 
 # Machine
-![machine](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fmachine_list.png?alt=media&token=24c451c1-e45c-40d6-9b55-e48654412604) \
-Halaman machine digunakan untuk melihat machine yang telah didaftarkan. Aktivitas yang dapat dilakukan dalam halaman ini adalah menambah, mengubah, dan menghapus data machine.
+![Mechine](https://user-images.githubusercontent.com/60081182/126924828-a279128f-8219-4283-b496-5464819ab658.JPG) \
+Halaman mechine dapat melakukan CRUD yaitu  menambah, menghapus, dan mengubah data material.
 
-# Daily report
+# Laporan Harian
 ![daily report](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fdaily_report.png?alt=media&token=c3d429dc-0467-4e1c-b316-4c1a74d92469) \
 Halaman daily report digunakan untuk melihat daftar laporan yang dilaporkan tiap harinya. Aktivitas yang dapat dilakukan adalah menambah, mengubah, dan menghapus data laporan.
 
