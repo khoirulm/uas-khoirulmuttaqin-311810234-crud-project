@@ -3,6 +3,9 @@ Nama : Khoirul Muttaqin\
 NIM : 311810234\
 Kelas : TI.18.D1
 
+# Get Started
+![GetStarted](https://user-images.githubusercontent.com/60081182/126926342-9fdb36cc-d314-4d5a-9441-c767df923df3.JPG) \
+Tampilan Awal Setelah Splash Screen
 # Login page
 ![Login](https://user-images.githubusercontent.com/60081182/126924734-ff9e1538-3827-47ab-b151-44d608ca89b8.JPG) \
 Halama login untuk user yang sudah memiliki akun, jika user belum memiliki akun klik Creat New Account di bawa button 
