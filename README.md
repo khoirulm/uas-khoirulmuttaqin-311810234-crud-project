@@ -28,5 +28,5 @@ Halaman mechine dapat melakukan CRUD yaitu  menambah, menghapus, dan mengubah da
 Halaman daily report digunakan untuk melihat daftar laporan yang dilaporkan tiap harinya. Aktivitas yang dapat dilakukan adalah menambah, mengubah, dan menghapus data laporan.
 
 # QR scanner
-![qr scanner](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fqr_scan.png?alt=media&token=f6cf21e2-189a-4262-9fe5-07a84d3971cc) \
-Halaman QR scanner digunakan untuk melakukan scan qr dari halaman laporan harian. Proses scan akan membawa pengguna ke halaman laporan harian terkait dari QR yang telah di scan.
+![QRScanner](https://user-images.githubusercontent.com/60081182/126924855-7e5a4a39-0532-4f2d-970c-e8b9d809dac6.JPG) \
+QR scanner digunakan untuk melakukan scan qr dari halaman laporan harian.
