@@ -4,8 +4,8 @@ NIM : 311810234\
 Kelas : TI.18.D1
 
 # Login page
-![login page](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Flogin.png?alt=media&token=be26b0cd-cadd-4351-b084-9d32bf226a74) \
-Pada halaman login ini dapat dilakukan proses login menggunakan email dan password yang telah didaftarkan. Jika belum memiliki akun, dapat mendaftar terlebih dahulu pada halaman register.
+![Login](https://user-images.githubusercontent.com/60081182/126924734-ff9e1538-3827-47ab-b151-44d608ca89b8.JPG) \
+Halama login untuk user yang sudah memiliki akun, jika user belum memiliki akun klik Creat New Account di bawa button 
 
 # Create account
 ![create account](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fcreate_account.png?alt=media&token=edb6e824-fdd7-439d-95e5-2e03e8f321b4) \
