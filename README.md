@@ -16,8 +16,8 @@ HAlaman Daftafr Akun untuk user yang belum memiliki akses masuk
 Dashboard adalah halaman utama pada aplikasi ini, berisi sedikit informasi pada perusahaan, dan tombol logout jika ingin keluar dari aplikasi
 
 # Material
-![material](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fmaterial_list.png?alt=media&token=99b1e9e3-2057-4737-9b4f-f59a71caa650) \
-Halaman material digunakan untuk melihat material yang telah didaftarkan. Aktivitas yang dapat dilakukan dalam halaman ini adalah menambah, menghapus, dan mengubah data material.
+![Material](https://user-images.githubusercontent.com/60081182/126924810-9f42841f-6333-419e-ba83-cc73a9717af6.JPG) \
+Halaman material dapat melakukan CRUD yaitu  menambah, menghapus, dan mengubah data material.
 
 # Machine
 ![machine](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fmachine_list.png?alt=media&token=24c451c1-e45c-40d6-9b55-e48654412604) \
