@@ -8,8 +8,8 @@ Kelas : TI.18.D1
 Halama login untuk user yang sudah memiliki akun, jika user belum memiliki akun klik Creat New Account di bawa button 
 
 # Create account
-![create account](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fcreate_account.png?alt=media&token=edb6e824-fdd7-439d-95e5-2e03e8f321b4) \
-Halaman membuat akun ini dapat digunakan untuk membuat akun baru yang akan digunakan pada palikasi ini.
+![RegisterJPG](https://user-images.githubusercontent.com/60081182/126924769-e2b38b37-0e39-43d4-9c44-5e939fa9b776.JPG) \
+HAlaman Daftafr Akun untuk user yang belum memiliki akses masuk
 
 # Dashboard
 ![dashboard](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fdashboard.png?alt=media&token=009eaa2d-1ad1-426f-830d-24cd1eab8fc9) \
