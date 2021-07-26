@@ -1,32 +1,35 @@
-# UAS Arkyana Usman
-Nama : Arkyana Usman Dwi B\
-NIM : 311810105\
-Kelas : TI.18.C.1
+# UJIAN AKHIR SEMESTER
+Nama : Khoirul Muttaqin\
+NIM : 311810234\
+Kelas : TI.18.D1
 
+# Get Started
+![GetStarted](https://user-images.githubusercontent.com/60081182/126926342-9fdb36cc-d314-4d5a-9441-c767df923df3.JPG) \
+Tampilan Awal Setelah Splash Screen
 # Login page
-![login page](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Flogin.png?alt=media&token=be26b0cd-cadd-4351-b084-9d32bf226a74) \
-Pada halaman login ini dapat dilakukan proses login menggunakan email dan password yang telah didaftarkan. Jika belum memiliki akun, dapat mendaftar terlebih dahulu pada halaman register.
+![Loginn](https://user-images.githubusercontent.com/60081182/126927789-4561b2ad-d7d4-470c-b3ce-c3938726a354.JPG) \
+Halama login untuk user yang sudah memiliki akun, jika user belum memiliki akun klik Creat New Account di bawa button 
 
-# Create account
-![create account](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fcreate_account.png?alt=media&token=edb6e824-fdd7-439d-95e5-2e03e8f321b4) \
-Halaman membuat akun ini dapat digunakan untuk membuat akun baru yang akan digunakan pada palikasi ini.
+# Daftar Akun
+![Register](https://user-images.githubusercontent.com/60081182/126928031-9899dd5a-ee9f-46ef-8d30-70e072219d54.JPG) \
+HAlaman Daftafr Akun untuk user yang belum memiliki akses masuk
 
 # Dashboard
-![dashboard](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fdashboard.png?alt=media&token=009eaa2d-1ad1-426f-830d-24cd1eab8fc9) \
-Halaman ini merupakan halaman utama yang akan dilihat pengguna setelah login / daftar berhasil dilakukan. Aktivitas yang dapat dilakukan pada halaman ini adalah logout.
+![Dasboard](https://user-images.githubusercontent.com/60081182/126924787-21f241cb-122a-4700-bfe1-06e3b02ed14f.JPG) \
+Dashboard adalah halaman utama pada aplikasi ini, berisi sedikit informasi pada perusahaan, dan tombol logout jika ingin keluar dari aplikasi
 
 # Material
-![material](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fmaterial_list.png?alt=media&token=99b1e9e3-2057-4737-9b4f-f59a71caa650) \
-Halaman material digunakan untuk melihat material yang telah didaftarkan. Aktivitas yang dapat dilakukan dalam halaman ini adalah menambah, menghapus, dan mengubah data material.
+![Material](https://user-images.githubusercontent.com/60081182/126924810-9f42841f-6333-419e-ba83-cc73a9717af6.JPG) \
+Halaman material dapat melakukan CRUD yaitu  menambah, menghapus, dan mengubah data material.
 
 # Machine
-![machine](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fmachine_list.png?alt=media&token=24c451c1-e45c-40d6-9b55-e48654412604) \
-Halaman machine digunakan untuk melihat machine yang telah didaftarkan. Aktivitas yang dapat dilakukan dalam halaman ini adalah menambah, mengubah, dan menghapus data machine.
+![Mechine](https://user-images.githubusercontent.com/60081182/126924828-a279128f-8219-4283-b496-5464819ab658.JPG) \
+Halaman mechine dapat melakukan CRUD yaitu  menambah, menghapus, dan mengubah data material.
 
-# Daily report
-![daily report](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fdaily_report.png?alt=media&token=c3d429dc-0467-4e1c-b316-4c1a74d92469) \
-Halaman daily report digunakan untuk melihat daftar laporan yang dilaporkan tiap harinya. Aktivitas yang dapat dilakukan adalah menambah, mengubah, dan menghapus data laporan.
+# Laporan Harian
+![DailyReport](https://user-images.githubusercontent.com/60081182/126926104-b8c1961b-bbd8-436e-8343-d36ed0e03932.JPG) \
+daily report digunakan untuk melihat daftar laporan yang dilaporkan tiap harinya.
 
 # QR scanner
-![qr scanner](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fqr_scan.png?alt=media&token=f6cf21e2-189a-4262-9fe5-07a84d3971cc) \
-Halaman QR scanner digunakan untuk melakukan scan qr dari halaman laporan harian. Proses scan akan membawa pengguna ke halaman laporan harian terkait dari QR yang telah di scan.
+![QRScanner](https://user-images.githubusercontent.com/60081182/126924855-7e5a4a39-0532-4f2d-970c-e8b9d809dac6.JPG) \
+QR scanner digunakan untuk melakukan scan qr dari halaman laporan harian.
