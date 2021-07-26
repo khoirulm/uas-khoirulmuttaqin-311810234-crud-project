@@ -29,7 +29,6 @@ public class GetStarted extends AppCompatActivity {
             public void onClick(View view) {
                 Intent goToSignIn = new Intent(GetStarted.this, LoginActivity.class);
                 startActivity(goToSignIn);
-                finish();
             }
         });
 
@@ -38,7 +37,6 @@ public class GetStarted extends AppCompatActivity {
             public void onClick(View view) {
                 Intent goToRegister = new Intent(GetStarted.this, RegisterActivity.class);
                 startActivity(goToRegister);
-                finish();
             }
         });
 
