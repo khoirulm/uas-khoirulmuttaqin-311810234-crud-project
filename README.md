@@ -12,8 +12,8 @@ Halama login untuk user yang sudah memiliki akun, jika user belum memiliki akun 
 HAlaman Daftafr Akun untuk user yang belum memiliki akses masuk
 
 # Dashboard
-![dashboard](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fdashboard.png?alt=media&token=009eaa2d-1ad1-426f-830d-24cd1eab8fc9) \
-Halaman ini merupakan halaman utama yang akan dilihat pengguna setelah login / daftar berhasil dilakukan. Aktivitas yang dapat dilakukan pada halaman ini adalah logout.
+![Dasboard](https://user-images.githubusercontent.com/60081182/126924787-21f241cb-122a-4700-bfe1-06e3b02ed14f.JPG) \
+Dashboard adalah halaman utama pada aplikasi ini, berisi sedikit informasi pada perusahaan, dan tombol logout jika ingin keluar dari aplikasi
 
 # Material
 ![material](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fmaterial_list.png?alt=media&token=99b1e9e3-2057-4737-9b4f-f59a71caa650) \
