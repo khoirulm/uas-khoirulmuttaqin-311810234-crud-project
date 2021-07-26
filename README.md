@@ -7,11 +7,11 @@ Kelas : TI.18.D1
 ![GetStarted](https://user-images.githubusercontent.com/60081182/126926342-9fdb36cc-d314-4d5a-9441-c767df923df3.JPG) \
 Tampilan Awal Setelah Splash Screen
 # Login page
-![Login](https://user-images.githubusercontent.com/60081182/126924734-ff9e1538-3827-47ab-b151-44d608ca89b8.JPG) \
+![Loginn](https://user-images.githubusercontent.com/60081182/126927789-4561b2ad-d7d4-470c-b3ce-c3938726a354.JPG) \
 Halama login untuk user yang sudah memiliki akun, jika user belum memiliki akun klik Creat New Account di bawa button 
 
 # Daftar Akun
-![RegisterJPG](https://user-images.githubusercontent.com/60081182/126924769-e2b38b37-0e39-43d4-9c44-5e939fa9b776.JPG) \
+![Registerr](https://user-images.githubusercontent.com/60081182/126927759-2d1451ba-f96a-43aa-b324-b99bc457adf8.JPG) \
 HAlaman Daftafr Akun untuk user yang belum memiliki akses masuk
 
 # Dashboard
