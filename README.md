@@ -11,7 +11,7 @@ Tampilan Awal Setelah Splash Screen
 Halama login untuk user yang sudah memiliki akun, jika user belum memiliki akun klik Creat New Account di bawa button 
 
 # Daftar Akun
-![Registerr](https://user-images.githubusercontent.com/60081182/126927759-2d1451ba-f96a-43aa-b324-b99bc457adf8.JPG) \
+![Register](https://user-images.githubusercontent.com/60081182/126928031-9899dd5a-ee9f-46ef-8d30-70e072219d54.JPG) \
 HAlaman Daftafr Akun untuk user yang belum memiliki akses masuk
 
 # Dashboard
