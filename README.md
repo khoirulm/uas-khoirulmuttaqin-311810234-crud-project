@@ -24,8 +24,8 @@ Halaman material dapat melakukan CRUD yaitu  menambah, menghapus, dan mengubah d
 Halaman mechine dapat melakukan CRUD yaitu  menambah, menghapus, dan mengubah data material.
 
 # Laporan Harian
-![daily report](https://firebasestorage.googleapis.com/v0/b/uas-arkyana-usman.appspot.com/o/git%2Fdaily_report.png?alt=media&token=c3d429dc-0467-4e1c-b316-4c1a74d92469) \
-Halaman daily report digunakan untuk melihat daftar laporan yang dilaporkan tiap harinya. Aktivitas yang dapat dilakukan adalah menambah, mengubah, dan menghapus data laporan.
+![DailyReport](https://user-images.githubusercontent.com/60081182/126926104-b8c1961b-bbd8-436e-8343-d36ed0e03932.JPG) \
+daily report digunakan untuk melihat daftar laporan yang dilaporkan tiap harinya.
 
 # QR scanner
 ![QRScanner](https://user-images.githubusercontent.com/60081182/126924855-7e5a4a39-0532-4f2d-970c-e8b9d809dac6.JPG) \
